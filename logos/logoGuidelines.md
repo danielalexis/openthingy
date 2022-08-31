@@ -8,7 +8,7 @@ The Logos are the sole and exclusive properly of openthingy Lda and its affiliat
 1. The logos must have written "{openthingy}" on them
 2. The official pallete of colors is black for "{" and "}", Pantone 2736 C for "open" and Pantone Bright Red C for "thingy". On dark backgrounds all characters must be white.
 3. The colors are subject to change at your discretion unless stated otherwise.
-4. Do not modify or alter the Logos
+4. Do not modify or alter the Logos (exception 3.)
 5. Do not change scale, skew or rotate any Logo
 6. Do not change the design of any Logo
 7. Do not combine a Logo with any other design, trademark, graphic, text or other element, including your name, any trademarks or any generic terms.
